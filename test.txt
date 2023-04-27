@@ -1,0 +1,6 @@
+{
+    "nama" : "Jonny",
+    "harga":200000,
+    "merk": "Ask",
+    "os": "WD"
+}
